@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/7.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Japanese filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:35:47.568Z",
+  "sha256": "0dca1d0cdf488e8f0c852a6c51892b5096afb35a3720178ab6961db044270416",
+  "upstreamVersion": "2.0.78.2",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 12243,
+  "acceptedDomainRules": 316,
+  "exceptionDomains": 167,
+  "rejected": {
+    "unsupportedShape": 11314,
+    "unsupportedOptions": 87,
+    "invalidHostname": 0,
+    "exception": 45,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

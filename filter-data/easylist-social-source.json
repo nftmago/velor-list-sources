@@ -1,0 +1,25 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/thirdparties/easylist-social.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList – Social Widgets",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:04:57.762Z",
+  "sha256": "7810337fd1a281b0fdcca6c0a3908ec9f9514c9f42b25ddd77e6ba871cb4600d",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Sat, 31 Oct 2026 17:21:43 +0000",
+  "upstreamCommit": "",
+  "filters": 13909,
+  "acceptedDomainRules": 54,
+  "exceptionDomains": 63,
+  "rejected": {
+    "unsupportedShape": 4009,
+    "unsupportedOptions": 4,
+    "invalidHostname": 0,
+    "exception": 7,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

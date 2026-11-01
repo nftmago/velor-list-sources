@@ -1,0 +1,25 @@
+{
+  "source": "https://ubo-et.lepik.io/list.txt",
+  "publisher": "sander85 and contributors",
+  "title": "Eesti saitidele kohandatud filter / Estonian list for ad blockers",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attributionUrl": "https://github.com/sander85/uBO-et",
+  "fetchedAt": "2026-11-01T06:35:46.482Z",
+  "sha256": "3c66cad9e9cec0f998f04b602bbbcb79c3ecf5370fe656af08d67267e6ae9657",
+  "upstreamVersion": "20251113",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 459,
+  "acceptedDomainRules": 1,
+  "exceptionDomains": 12,
+  "rejected": {
+    "unsupportedShape": 430,
+    "unsupportedOptions": 2,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

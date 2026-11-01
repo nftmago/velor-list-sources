@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/9.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Spanish/Portuguese filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:35:47.290Z",
+  "sha256": "094815d12f66b140263c1f0398299fc9f654a084351b1ce619021223bb83a656",
+  "upstreamVersion": "2.0.36.26",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 5737,
+  "acceptedDomainRules": 166,
+  "exceptionDomains": 175,
+  "rejected": {
+    "unsupportedShape": 5142,
+    "unsupportedOptions": 30,
+    "invalidHostname": 2,
+    "exception": 6,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 1
+  }
+}

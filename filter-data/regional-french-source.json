@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/16.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard French filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:35:47.792Z",
+  "sha256": "ca91e37a6802f5a0b6893621549dc42e82eb5f1f330b555c3c6fe0bdd377bc29",
+  "upstreamVersion": "2.0.58.9",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 15957,
+  "acceptedDomainRules": 5872,
+  "exceptionDomains": 337,
+  "rejected": {
+    "unsupportedShape": 6790,
+    "unsupportedOptions": 757,
+    "invalidHostname": 4,
+    "exception": 195,
+    "badfilter": 15,
+    "sharedInfrastructure": 0,
+    "duplicate": 3
+  }
+}

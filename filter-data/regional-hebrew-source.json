@@ -1,0 +1,34 @@
+{
+  "source": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList Hebrew",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T09:15:13.614Z",
+  "sha256": "f43208c3b4256280e27273c43e082eac628fa8e7a9ee2fc0ded187105395396a",
+  "upstreamVersion": "",
+  "upstreamLastModified": "30 Oct 2026 11:22 UTC",
+  "upstreamCommit": "",
+  "filters": 1388,
+  "acceptedDomainRules": 57,
+  "exceptionDomains": 97,
+  "rejected": {
+    "unsupportedShape": 1018,
+    "unsupportedOptions": 125,
+    "invalidHostname": 3,
+    "exception": 7,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  },
+  "includes": [
+    {
+      "name": "EasyListHebrew-uBO.txt",
+      "file": "regional-hebrew--EasyListHebrew-uBO.txt",
+      "source": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew-uBO.txt",
+      "sha256": "38a80ea97d9669118fa8582b0c0bd88ffab3ed89a279152e115f7c12cf9ab541",
+      "filters": 184
+    }
+  ]
+}

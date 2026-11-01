@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/224.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Chinese filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:35:47.401Z",
+  "sha256": "0e3a2c52355795453557ea44cd36e35f0baabbc799476400f4c3927574250806",
+  "upstreamVersion": "2.1.68.64",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 20873,
+  "acceptedDomainRules": 5975,
+  "exceptionDomains": 553,
+  "rejected": {
+    "unsupportedShape": 12803,
+    "unsupportedOptions": 151,
+    "invalidHostname": 8,
+    "exception": 83,
+    "badfilter": 1,
+    "sharedInfrastructure": 0,
+    "duplicate": 2
+  }
+}

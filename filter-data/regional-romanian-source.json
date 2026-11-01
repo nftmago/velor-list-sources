@@ -1,0 +1,34 @@
+{
+  "source": "https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt",
+  "publisher": "tcptomato and contributors",
+  "title": "ROU: Romanian Ad (ROad) Block List Light",
+  "license": "MIT",
+  "licenseUrl": "https://github.com/tcptomato/ROad-Block/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/tcptomato/ROad-Block",
+  "fetchedAt": "2026-11-01T09:15:13.743Z",
+  "sha256": "c3d49483f8fd52e5b8b80ae5e1c244c9c17062b5e80bfd3611a16fa222b2b089",
+  "upstreamVersion": "",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 1907,
+  "acceptedDomainRules": 95,
+  "exceptionDomains": 21,
+  "rejected": {
+    "unsupportedShape": 1724,
+    "unsupportedOptions": 12,
+    "invalidHostname": 0,
+    "exception": 1,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  },
+  "includes": [
+    {
+      "name": "road-ubo.txt",
+      "file": "regional-romanian--road-ubo.txt",
+      "source": "https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-ubo.txt",
+      "sha256": "aa9beae908c35519b75fd5f173aa97b604cbfa34fe6e0a9b06c69485972eddce",
+      "filters": 77
+    }
+  ]
+}

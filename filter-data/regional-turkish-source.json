@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/13.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Turkish filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:35:47.252Z",
+  "sha256": "420c6f022640c3119a3da3ff5fdc7c87b2df34af098f6f1cf80f3347f4a311fc",
+  "upstreamVersion": "2.0.69.40",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 6051,
+  "acceptedDomainRules": 203,
+  "exceptionDomains": 67,
+  "rejected": {
+    "unsupportedShape": 5449,
+    "unsupportedOptions": 31,
+    "invalidHostname": 0,
+    "exception": 7,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

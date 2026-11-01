@@ -1,0 +1,11 @@
+{
+  "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt",
+  "publisher": "HaGeZi (Fake: scams, traps, fake shops)",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+  "attributionUrl": "https://github.com/hagezi/dns-blocklists",
+  "category": "phishing",
+  "fetchedAt": "2026-10-31T20:32:58.359Z",
+  "sha256": "c2f9f05af2c412d6c416032dd0ead5128371d3645871c11437dea76d0876bb90",
+  "domainCount": 17561
+}

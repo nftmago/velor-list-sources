@@ -1,0 +1,25 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/thirdparties/easylist-cookies.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList – Cookie Notices",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:04:57.566Z",
+  "sha256": "ea9d0cdf2f1fa7e95b72ff780227cd2169248223675c37deb1e3ffede26b5b8a",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Sat, 31 Oct 2026 17:21:43 +0000",
+  "upstreamCommit": "",
+  "filters": 28174,
+  "acceptedDomainRules": 279,
+  "exceptionDomains": 366,
+  "rejected": {
+    "unsupportedShape": 12139,
+    "unsupportedOptions": 20,
+    "invalidHostname": 0,
+    "exception": 34,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

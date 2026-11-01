@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/20.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Mobile App Banners filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:04:58.579Z",
+  "sha256": "43aca2ed8ecda26535e904f1f6ea49c1c3c56aadf80e5f7efa342b36baa91f61",
+  "upstreamVersion": "2.0.33.61",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 4274,
+  "acceptedDomainRules": 2,
+  "exceptionDomains": 6,
+  "rejected": {
+    "unsupportedShape": 4250,
+    "unsupportedOptions": 2,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

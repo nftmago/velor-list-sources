@@ -1,0 +1,25 @@
+{
+  "source": "https://easylist-downloads.adblockplus.org/easylistspanish.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList Spanish",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:35:48.063Z",
+  "sha256": "871cbf2c5e604ac86d2145a4790615493cc200364281ec248fca4b59a90783de",
+  "upstreamVersion": "202611010621",
+  "upstreamLastModified": "01 Nov 2026 06:21 UTC",
+  "upstreamCommit": "",
+  "filters": 2648,
+  "acceptedDomainRules": 37,
+  "exceptionDomains": 39,
+  "rejected": {
+    "unsupportedShape": 2216,
+    "unsupportedOptions": 67,
+    "invalidHostname": 1,
+    "exception": 2,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

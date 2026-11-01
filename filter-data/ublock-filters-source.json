@@ -1,0 +1,90 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/filters/filters.txt",
+  "publisher": "Raymond Hill and the uAssets contributors",
+  "title": "uBlock filters",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/uBlockOrigin/uAssets",
+  "fetchedAt": "2026-11-01T09:15:14.295Z",
+  "sha256": "8cf219062dfc14b6c2ca6a689021414b909f0f87c3f308d19ddde3d68f6679cc",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Mon, 26 Oct 2026 13:22:50 +0000",
+  "upstreamCommit": "",
+  "filters": 6078,
+  "acceptedDomainRules": 100,
+  "exceptionDomains": 181,
+  "rejected": {
+    "unsupportedShape": 5080,
+    "unsupportedOptions": 86,
+    "invalidHostname": 1,
+    "exception": 1,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  },
+  "includes": [
+    {
+      "name": "filters-general.txt",
+      "file": "ublock-filters--filters-general.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/filters-general.txt",
+      "sha256": "70232e0187db7c50099d3b06c79f262bbc90695830f0edcfe9ed0a81c214d34b",
+      "filters": 2850
+    },
+    {
+      "name": "filters-2020.txt",
+      "file": "ublock-filters--filters-2020.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/filters-2020.txt",
+      "sha256": "932aa3df88017f5065b7445e60c96252c3471335972fbc0d6fb8a3070eb1d499",
+      "filters": 1696
+    },
+    {
+      "name": "filters-2021.txt",
+      "file": "ublock-filters--filters-2021.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/filters-2021.txt",
+      "sha256": "eac30f6b97455c62ac5f5ad7f50a73a58c2a74ef74b5ca9877628fa342bffe3e",
+      "filters": 2253
+    },
+    {
+      "name": "filters-2022.txt",
+      "file": "ublock-filters--filters-2022.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/filters-2022.txt",
+      "sha256": "dc766f0eeb80d084f2a97fcece60baaa2c628542fb0bbb641f49bd671b3f5aea",
+      "filters": 1942
+    },
+    {
+      "name": "filters-2023.txt",
+      "file": "ublock-filters--filters-2023.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/filters-2023.txt",
+      "sha256": "d4a33d3039543e7f9fbdb7895c84a743c3c217aa7d54c33eb990968dd986c1b3",
+      "filters": 2415
+    },
+    {
+      "name": "filters-2024.txt",
+      "file": "ublock-filters--filters-2024.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/filters-2024.txt",
+      "sha256": "5c7a86c1eb5db82129160c06de34f0a03f466663bbfb12ebc57415d92deb1190",
+      "filters": 2182
+    },
+    {
+      "name": "filters-2025.txt",
+      "file": "ublock-filters--filters-2025.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/filters-2025.txt",
+      "sha256": "33cb218de4b95986ea15746bf4e1435a0ed7aca2b37d1f7cc4aca296bcf13b10",
+      "filters": 1902
+    },
+    {
+      "name": "filters-2026.txt",
+      "file": "ublock-filters--filters-2026.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/filters-2026.txt",
+      "sha256": "adf91481dc6e1b8ef65747f37ab1c51f61c0a06c2bef34d047208f266186972d",
+      "filters": 1227
+    },
+    {
+      "name": "ubo-link-shorteners.txt",
+      "file": "ublock-filters--ubo-link-shorteners.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/ubo-link-shorteners.txt",
+      "sha256": "60e8327a3ce109f2926232b5c6688e0949b146b2e08caa351baa4a47601ce326",
+      "filters": 1330
+    }
+  ]
+}

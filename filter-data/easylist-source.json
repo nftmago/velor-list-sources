@@ -1,0 +1,25 @@
+{
+  "source": "https://easylist.to/easylist/easylist.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-10-31T20:32:56.589Z",
+  "sha256": "d6ccb422e54c348dbe0141c59d8e23030754118864e5cf0f15dee32b62cf2c0f",
+  "upstreamVersion": "202610312023",
+  "upstreamLastModified": "31 Oct 2026 20:23 UTC",
+  "upstreamCommit": "3fc092a46904fc6d4d4c806d4f606d1ccafb7422",
+  "filters": 76472,
+  "acceptedDomainRules": 42852,
+  "exceptionDomains": 432,
+  "rejected": {
+    "unsupportedShape": 14435,
+    "unsupportedOptions": 3328,
+    "invalidHostname": 216,
+    "exception": 1245,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 11
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/8.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Dutch filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:35:47.027Z",
+  "sha256": "dcd74c0f1c79a179c04384f0e9682de8f12dc3c4605e02f89f9eded32faf91c9",
+  "upstreamVersion": "2.0.9.50",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 1973,
+  "acceptedDomainRules": 67,
+  "exceptionDomains": 43,
+  "rejected": {
+    "unsupportedShape": 1785,
+    "unsupportedOptions": 9,
+    "invalidHostname": 0,
+    "exception": 3,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 2
+  }
+}

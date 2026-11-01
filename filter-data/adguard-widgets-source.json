@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/22.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Widgets filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:04:58.339Z",
+  "sha256": "10e40da76efdec334c83eba97fa5c3ae5672f470ff9c848dd4694adc12e35518",
+  "upstreamVersion": "2.0.15.34",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 2713,
+  "acceptedDomainRules": 237,
+  "exceptionDomains": 24,
+  "rejected": {
+    "unsupportedShape": 2321,
+    "unsupportedOptions": 67,
+    "invalidHostname": 0,
+    "exception": 18,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

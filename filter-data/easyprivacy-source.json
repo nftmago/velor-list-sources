@@ -1,0 +1,25 @@
+{
+  "source": "https://easylist.to/easylist/easyprivacy.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyPrivacy",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-10-31T20:32:56.490Z",
+  "sha256": "8c81079cc6ab28f3ad4778ed1c2a8b99a29e90a6291035000421e2f7d7aaaa61",
+  "upstreamVersion": "202610312023",
+  "upstreamLastModified": "31 Oct 2026 20:23 UTC",
+  "upstreamCommit": "3fc092a46904fc6d4d4c806d4f606d1ccafb7422",
+  "filters": 56448,
+  "acceptedDomainRules": 46537,
+  "exceptionDomains": 739,
+  "rejected": {
+    "unsupportedShape": 8240,
+    "unsupportedOptions": 240,
+    "invalidHostname": 13,
+    "exception": 561,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 2
+  }
+}

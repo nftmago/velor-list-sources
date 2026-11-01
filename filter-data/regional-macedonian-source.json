@@ -1,0 +1,25 @@
+{
+  "source": "https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/master/Filters",
+  "publisher": "DeepSpaceHarbor and contributors",
+  "title": "Macedonian adBlock Filters",
+  "license": "MIT",
+  "licenseUrl": "https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/DeepSpaceHarbor/Macedonian-adBlock-Filters",
+  "fetchedAt": "2026-11-01T06:35:46.519Z",
+  "sha256": "263d5a03b254fb04d7f395c0480f1a6c54e794804575d68b4be970f357a135dc",
+  "upstreamVersion": "",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 808,
+  "acceptedDomainRules": 138,
+  "exceptionDomains": 0,
+  "rejected": {
+    "unsupportedShape": 667,
+    "unsupportedOptions": 0,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

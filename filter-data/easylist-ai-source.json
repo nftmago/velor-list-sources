@@ -1,0 +1,25 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/thirdparties/easylist-ai.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList – Anti AI Suggestions",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:04:58.090Z",
+  "sha256": "41bf7b9ab8f2ef437c6881b9a8f4dfb9c4b95776f39df8d6f4ea1087f3ac0abd",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Sat, 31 Oct 2026 17:21:43 +0000",
+  "upstreamCommit": "",
+  "filters": 288,
+  "acceptedDomainRules": 20,
+  "exceptionDomains": 0,
+  "rejected": {
+    "unsupportedShape": 264,
+    "unsupportedOptions": 0,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

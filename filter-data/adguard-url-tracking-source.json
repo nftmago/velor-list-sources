@@ -1,0 +1,12 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/17.txt",
+  "publisher": "AdGuard (URL Tracking filter)",
+  "title": "AdGuard URL Tracking filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-10-30T22:26:25.360Z",
+  "sha256": "16c860f51faf468d3895b1bf5150a4a1bbbd02d407ee7177dd90b272983637ba",
+  "upstreamVersion": "2.0.14.77",
+  "upstreamTimeUpdated": "2026-10-30T14:10:21+00:00"
+}

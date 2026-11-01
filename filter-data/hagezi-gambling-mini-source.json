@@ -1,0 +1,11 @@
+{
+  "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.mini-onlydomains.txt",
+  "publisher": "HaGeZi (Gambling, mini)",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+  "attributionUrl": "https://github.com/hagezi/dns-blocklists",
+  "category": "gambling",
+  "fetchedAt": "2026-10-31T20:32:58.569Z",
+  "sha256": "1a5693bc7111da2f813885fbcd0951160590bcca5a1e20cd1c7a3895973f3709",
+  "domainCount": 117587
+}

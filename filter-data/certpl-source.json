@@ -1,0 +1,8 @@
+{
+  "source": "https://hole.cert.pl/domains/v2/domains.txt",
+  "publisher": "CERT Polska / NASK PIB",
+  "usage": "Public data; unrestricted manual and automated processing per CERT Polska API specification",
+  "fetchedAt": "2026-10-31T20:33:00.319Z",
+  "sha256": "46d27859c8b4f40ccaec394a8fc7119889aeb1e5f05edb651c29c4024693623a",
+  "domainCount": 126212
+}

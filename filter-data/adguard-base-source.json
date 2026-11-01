@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/2.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Base filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-10-31T20:32:58.083Z",
+  "sha256": "82c387cad2f8765d5fac9b8fc63760ed343de79c610434878cb49458297384a1",
+  "upstreamVersion": "2.5.1.17",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 133715,
+  "acceptedDomainRules": 54483,
+  "exceptionDomains": 1897,
+  "rejected": {
+    "unsupportedShape": 52956,
+    "unsupportedOptions": 3930,
+    "invalidHostname": 224,
+    "exception": 1632,
+    "badfilter": 6,
+    "sharedInfrastructure": 0,
+    "duplicate": 452
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "source": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-hosts.txt",
+  "publisher": "malware-filter phishing-filter (OpenPhish, PhishTank, IPThreat)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://gitlab.com/malware-filter/phishing-filter#license",
+  "attributionUrl": "https://gitlab.com/malware-filter/phishing-filter",
+  "category": "phishing",
+  "fetchedAt": "2026-10-31T20:32:59.966Z",
+  "sha256": "83c111c3f82311c86a6504ccfd71025d2a1d3b44f873cdd0287f73d299026eb1",
+  "domainCount": 23952
+}

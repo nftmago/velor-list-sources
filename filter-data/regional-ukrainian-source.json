@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/23.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Ukrainian filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:35:47.262Z",
+  "sha256": "7b54cb9289b00bcee18a2bce02e002987c1dd0d4a6c2285fb4ab5240cb405e38",
+  "upstreamVersion": "2.0.9.55",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 5546,
+  "acceptedDomainRules": 1772,
+  "exceptionDomains": 49,
+  "rejected": {
+    "unsupportedShape": 3116,
+    "unsupportedOptions": 63,
+    "invalidHostname": 14,
+    "exception": 4,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 2
+  }
+}

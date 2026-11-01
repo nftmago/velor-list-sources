@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/21.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Other Annoyances filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:04:58.572Z",
+  "sha256": "1e612f2fcc082734200806af0acbc9ac933347fd8e56467f874d275ed9259d1d",
+  "upstreamVersion": "2.0.49.86",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 8582,
+  "acceptedDomainRules": 15,
+  "exceptionDomains": 4,
+  "rejected": {
+    "unsupportedShape": 8514,
+    "unsupportedOptions": 38,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt",
+  "publisher": "The Latvian List contributors",
+  "title": "Latvian List",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionUrl": "https://github.com/Latvian-List/adblock-latvian",
+  "fetchedAt": "2026-11-01T06:35:46.504Z",
+  "sha256": "976330ff32923dd0e23f48c07a878f946e6faa5be52c07922be5ca8c87a56021",
+  "upstreamVersion": "202605140759",
+  "upstreamLastModified": "2026-05-14 07:59 UTC",
+  "upstreamCommit": "",
+  "filters": 430,
+  "acceptedDomainRules": 37,
+  "exceptionDomains": 13,
+  "rejected": {
+    "unsupportedShape": 367,
+    "unsupportedOptions": 6,
+    "invalidHostname": 0,
+    "exception": 2,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

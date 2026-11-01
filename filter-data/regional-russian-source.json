@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/1.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Russian filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:35:47.414Z",
+  "sha256": "af5243d2e3a4ab7e6dbae03d3786cee137105313947dc44936b7c8cd0861b982",
+  "upstreamVersion": "2.1.9.45",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 17370,
+  "acceptedDomainRules": 1892,
+  "exceptionDomains": 368,
+  "rejected": {
+    "unsupportedShape": 14083,
+    "unsupportedOptions": 146,
+    "invalidHostname": 15,
+    "exception": 37,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 4
+  }
+}

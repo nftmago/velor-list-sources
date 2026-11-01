@@ -1,0 +1,25 @@
+{
+  "source": "https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt",
+  "publisher": "betterwebleon and contributors",
+  "title": "Slovenian List",
+  "license": "Unlicense",
+  "licenseUrl": "https://unlicense.org/",
+  "attributionUrl": "https://github.com/betterwebleon/slovenian-list",
+  "fetchedAt": "2026-11-01T06:35:46.501Z",
+  "sha256": "371924043ec588e9aff7a66c68e30a7088897208bc390295afb2c61a45e8de95",
+  "upstreamVersion": "141",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 506,
+  "acceptedDomainRules": 39,
+  "exceptionDomains": 12,
+  "rejected": {
+    "unsupportedShape": 436,
+    "unsupportedOptions": 10,
+    "invalidHostname": 0,
+    "exception": 2,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

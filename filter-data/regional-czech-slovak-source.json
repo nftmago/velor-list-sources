@@ -1,0 +1,34 @@
+{
+  "source": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt",
+  "publisher": "tomasko126 and the adblock.sk contributors",
+  "title": "Easylist Czech and Slovak filter list",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionUrl": "https://github.com/tomasko126/easylistczechandslovak",
+  "fetchedAt": "2026-11-01T09:15:13.336Z",
+  "sha256": "eb4a7394e738f1ac480c80971c11095b9f252a8bcf3b9990d4f3404caeb96cf1",
+  "upstreamVersion": "",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 622,
+  "acceptedDomainRules": 93,
+  "exceptionDomains": 11,
+  "rejected": {
+    "unsupportedShape": 454,
+    "unsupportedOptions": 2,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  },
+  "includes": [
+    {
+      "name": "filters_ublock.txt",
+      "file": "regional-czech-slovak--filters_ublock.txt",
+      "source": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters_ublock.txt",
+      "sha256": "4069f7207e1e20079fde41fad5c460bad7c833685bd59cad3b8f1b452872420c",
+      "filters": 107
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/thirdparties/easylist-annoyances.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList – Annoyances",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:04:58.149Z",
+  "sha256": "ef370b68c5875cd0dc3c6475849ee5630eb39470430eb09fc250680095f02c94",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Sat, 31 Oct 2026 17:21:43 +0000",
+  "upstreamCommit": "",
+  "filters": 4031,
+  "acceptedDomainRules": 314,
+  "exceptionDomains": 17,
+  "rejected": {
+    "unsupportedShape": 2875,
+    "unsupportedOptions": 26,
+    "invalidHostname": 0,
+    "exception": 7,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

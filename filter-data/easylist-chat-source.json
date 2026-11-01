@@ -1,0 +1,25 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/thirdparties/easylist-chat.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList – Chat Widgets",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:04:57.853Z",
+  "sha256": "877acdd15884b27e8f185f4cb4c1fb7aef07fa2f6dc799168b181905b2ce7910",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Fri, 09 Oct 2026 10:54:57 +0000",
+  "upstreamCommit": "",
+  "filters": 288,
+  "acceptedDomainRules": 182,
+  "exceptionDomains": 0,
+  "rejected": {
+    "unsupportedShape": 85,
+    "unsupportedOptions": 7,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

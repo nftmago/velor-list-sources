@@ -1,0 +1,25 @@
+{
+  "source": "https://filters.adtidy.org/extension/chromium/filters/19.txt",
+  "publisher": "AdGuard",
+  "title": "AdGuard Popups filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/AdguardTeam/AdguardFilters",
+  "fetchedAt": "2026-11-01T06:04:58.772Z",
+  "sha256": "d529db0e660955e61a2d0cf9e28002c893208c7a748da1d261e1c5d3f8921a85",
+  "upstreamVersion": "2.0.86.63",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 22613,
+  "acceptedDomainRules": 399,
+  "exceptionDomains": 456,
+  "rejected": {
+    "unsupportedShape": 21401,
+    "unsupportedOptions": 56,
+    "invalidHostname": 0,
+    "exception": 21,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

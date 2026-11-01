@@ -1,0 +1,25 @@
+{
+  "source": "https://easylist.to/easylistgermany/easylistgermany.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList Germany",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:35:47.812Z",
+  "sha256": "9f5a83c60dfe498a1a21d62118dde5ec7c81dba5df5a754638f98fe1029a0156",
+  "upstreamVersion": "202610291412",
+  "upstreamLastModified": "29 Oct 2026 14:12 UTC",
+  "upstreamCommit": "bcf9c2e796d1446f8e63b2052b81a155136a9c95",
+  "filters": 5997,
+  "acceptedDomainRules": 308,
+  "exceptionDomains": 65,
+  "rejected": {
+    "unsupportedShape": 5027,
+    "unsupportedOptions": 93,
+    "invalidHostname": 2,
+    "exception": 6,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

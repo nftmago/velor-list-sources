@@ -1,0 +1,25 @@
+{
+  "source": "https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt",
+  "publisher": "AnXh3L0 and contributors",
+  "title": "🇦🇱 🇽🇰 Adblock List for Albania and Kosovo",
+  "license": "Unlicense",
+  "licenseUrl": "https://unlicense.org/",
+  "attributionUrl": "https://github.com/anxh3l0/blocklist",
+  "fetchedAt": "2026-11-01T06:35:46.462Z",
+  "sha256": "9424cee466e41d66bacb5e3e1269e27b63a83100ad30f931d1a7b95052945c82",
+  "upstreamVersion": "",
+  "upstreamLastModified": "10/07/2024",
+  "upstreamCommit": "",
+  "filters": 305,
+  "acceptedDomainRules": 1,
+  "exceptionDomains": 2,
+  "rejected": {
+    "unsupportedShape": 295,
+    "unsupportedOptions": 0,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 1
+  }
+}

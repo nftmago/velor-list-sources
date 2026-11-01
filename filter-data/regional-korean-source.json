@@ -1,0 +1,25 @@
+{
+  "source": "https://cdn.jsdelivr.net/npm/@filteringdev/filterslists-ko@latest/dist/filterslist-uBlockOrigin-classic.txt",
+  "publisher": "FilteringDev and contributors",
+  "title": "filterslists-KO classic (uBO)",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/FilteringDev/filterslists-KO/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/FilteringDev/filterslists-KO",
+  "fetchedAt": "2026-11-01T06:35:46.447Z",
+  "sha256": "db87a35f0c4d0d3127b92bbead926bc6d4200f1ae328e1315574071836710f9e",
+  "upstreamVersion": "2026.20756.2",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 4122,
+  "acceptedDomainRules": 368,
+  "exceptionDomains": 36,
+  "rejected": {
+    "unsupportedShape": 3548,
+    "unsupportedOptions": 36,
+    "invalidHostname": 0,
+    "exception": 20,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 9
+  }
+}

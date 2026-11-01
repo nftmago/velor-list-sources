@@ -1,0 +1,25 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/thirdparties/easylist-newsletters.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList – Newsletter Notices",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:04:57.724Z",
+  "sha256": "71b493b1a0d0ffde8a43248f1b39c4974c070db7b8c19408025c31e4b1d04e7c",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Sat, 31 Oct 2026 17:21:43 +0000",
+  "upstreamCommit": "",
+  "filters": 6074,
+  "acceptedDomainRules": 23,
+  "exceptionDomains": 9,
+  "rejected": {
+    "unsupportedShape": 4818,
+    "unsupportedOptions": 18,
+    "invalidHostname": 0,
+    "exception": 1,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

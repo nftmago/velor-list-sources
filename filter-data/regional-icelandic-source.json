@@ -1,0 +1,25 @@
+{
+  "source": "https://raw.githubusercontent.com/brave/adblock-lists/master/custom/is.txt",
+  "publisher": "Brave Software (forked from adblock.gardar.net)",
+  "title": "Icelandic List",
+  "license": "MPL-2.0",
+  "licenseUrl": "https://github.com/brave/adblock-lists/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/brave/adblock-lists",
+  "fetchedAt": "2026-11-01T06:35:46.704Z",
+  "sha256": "28b1923afa62e4f3f89f7eee776a5075f251b5ed618abb656607294a50e40c6d",
+  "upstreamVersion": "",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 83,
+  "acceptedDomainRules": 2,
+  "exceptionDomains": 0,
+  "rejected": {
+    "unsupportedShape": 81,
+    "unsupportedOptions": 0,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

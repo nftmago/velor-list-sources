@@ -1,0 +1,25 @@
+{
+  "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext",
+  "publisher": "Peter Lowe",
+  "title": "Peter Lowe's ad and tracking server list",
+  "license": "Free to combine with other lists and republish, with credit",
+  "licenseUrl": "https://pgl.yoyo.org/adservers/",
+  "attributionUrl": "https://pgl.yoyo.org/adservers/",
+  "fetchedAt": "2026-10-31T20:32:57.539Z",
+  "sha256": "79d4ef10d00a36bd2eb405e7fb8b7ec43ddafe681ff6e558714f3c6fb846583f",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Thu, 29 Oct 2026 21:57:19 GMT",
+  "upstreamCommit": "",
+  "filters": 3562,
+  "acceptedDomainRules": 3562,
+  "exceptionDomains": 0,
+  "rejected": {
+    "unsupportedShape": 0,
+    "unsupportedOptions": 0,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

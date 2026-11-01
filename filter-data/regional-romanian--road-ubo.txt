@@ -1,0 +1,170 @@
+[Adblock Plus 2.1]
+! Title: Romanian specific uBO filters
+! Expires: 3 days
+! Issue tracker: https://github.com/tcptomato/ROad-Block/issues
+! Homepage: https://github.com/tcptomato/ROad-Block
+
+! anti adb turdanews. net
+turdanews.net##+js(nostif, ai_)
+turdanews.net##+js(rmnt, script, adsbygoogle)
+
+! nosteam.ro + nosteamgames popups
+nosteam.com.ro,nosteam.ro,nosteamgames.ro##+js(nowoif)
+
+! https://github.com/uBlockOrigin/uAssets/issues/8709
+competentedigitale.ro##+js(rmnt, script, /adb/i)
+
+! https://github.com/uBlockOrigin/uAssets/issues/8753
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=protvplus.ro,redirect-rule=noopjs
+
+stirileprotv.ro##*:matches-css-before(content:/ADVERTISING/):remove()
+acasatv.ro,sport.ro##*:matches-css-before(content:/ADVERTISING/):remove()
+
+! https://github.com/tcptomato/ROad-Block/pull/222
+cool-etv.net##+js(acis, onload, noBackPlease)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/n3bjwx/ublock_detected_on_website/
+vwforum.ro##+js(nostif, adsbygoogle)
+
+! https://www.reddit.com/r/uBlockOrigin/comments/x9qoen/
+bloground.ro##+js(nostif, show)
+
+! https://github.com/uBlockOrigin/uAssets/pull/10062
+*$script,redirect-rule=noopjs,domain=myradioonline.ro
+myradioonline.ro##+js(rc, _bannerTop1)
+
+! https://github.com/tcptomato/ROad-Block/issues/323
+litoraltv.ro##.pum-active
+litoraltv.ro##html:style(overflow: auto !important;)
+
+! anti-adb
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,important,redirect=google-ima.js,domain=a1.ro|antena3.ro|antenastars.ro|as.ro|jurnalul.ro|observator.tv|observatornews.ro|realitatea.net|spynews.ro|zutv.ro|evz.ro
+
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=qbebe.ro,redirect=google-ima.js,important
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=divahair.ro,redirect=google-ima.js,important
+
+filmeserialegratis.*,fsplayer.*##+js(nowoif)
+
+cinemagia.ro###banner_container_top
+cinemagia.ro###main_container:style(padding-top: 0 !important;)
+cinemagia.ro###header:style(position: relative !important; top: 0 !important;)
+cinemagia.ro##.header_nav:style(position: absolute !important;)
+
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=radioimpuls.ro,redirect-rule=google-ima.js
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=smartliving.ro,redirect-rule=google-ima.js
+
+@@||digisport.ro^$xhr,1p
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=digisport.ro
+@@||digisport.ro^$ghide
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/160134
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=stiripesurse.ro
+
+sampmoduri.ro##+js(rmnt, script, /jQuery.*reload/)
+
+! https://www.reddit.com/r/uBlockOrigin/s/ztY9iMT88X
+vzlinks.com##+js(nowoif)
+vzlinks.com##+js(set, adblockcheck, false)
+||unpkg.com/videojs-vast-vpaid@2.0.2/bin/videojs_5.vast.vpaid.min.js$script,domain=vzlinks.com
+
+@@||regielive.ro^$ghide
+
+! https://github.com/uBlockOrigin/uAssets/issues/21915
+boardingpass.ro##+js(nostif, ai_adb)
+
+! https://github.com/brave/adblock-lists/issues/1177
+clujust.ro##+js(rmnt, script, ai_adb)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/174312
+lovendal.ro##+js(noeval-if, ads)
+
+! https://github.com/uBlockOrigin/uAssets/issues/23860
+||sapi.emag.*/recommendations/*zones=adss$xhr,1p
+emag.*##.container:has([data-tracking-alias^="sponsored_products"])
+
+! image background
+gsp.ro##+js(rmnt, script, document.body.classList.add)
+
+! https://github.com/AdguardTeam/AdguardFilters/issues/183110
+||business24.ro/index.php?module=getActiveBlockerContent.ajxinternal
+business24.ro##.banner
+business24.ro##.branding-container
+business24.ro##div.banner-container
+
+! video player anti-adb
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima.js,domain=kanald2.ro
+
+! https://github.com/tcptomato/ROad-Block/issues/558
+canale-tv.com##+js(nowoif, _blank, 10)
+canale-tv.com##+js(nostif, location)
+canale-tv.com##+js(nosiif, tool)
+
+! https://github.com/uBlockOrigin/uAssets/issues/29807
+player.desenefaine.net##+js(acs, document.write, unescape)
+
+! www.digi.ro extremely annoying animation
+www.digi.ro##.nav-user-notifications-icon-span:style(animation: none !important; -webkit-animation: none !important; animation-name: none !important; animation-duration: 0s !important;)
+
+! https://github.com/tcptomato/ROad-Block/issues/612
+acasa.ro##+js(set-cookie, fwp_wpm_, 1)
+
+! https://github.com/tcptomato/ROad-Block/issues/643
+bzb.ro##.upM:style(margin-top: 10px !important)
+
+! https://github.com/tcptomato/ROad-Block/issues/428
+eporno.ro,filme-porno.ro##+js(aeld, load, ADS)
+e-porno.ro##+js(aeld, click, _0x)
+
+! https://github.com/tcptomato/ROad-Block/issues/650
+catalog-az.ro##.main-content-section:style(min-height: 400px !important)
+
+! https://github.com/tcptomato/ROad-Block/issues/651
+hotnews.ro##+js(rmnt, script, /skin|insertAdjacentHTML|netflix/)
+
+! https://github.com/tcptomato/ROad-Block/issues/656
+tvonline.to##.ad-container
+tvonline.to##.preload-ad-overlay:remove()
+
+! detection
+softinfo.ro##+js(rmnt, script, var Data)
+
+tvmd.info##+js(nowoif)
+tvmd.info##+js(rmnt, script, appendChild)
+
+! unbreak (issue due to uBO filters - map broken on https://www.eventim.ro/event/alifantis-mirica-gemini-2-0-casa-de-cultura-a-sindicatelor-21322560/ )
+@@||stay22.com/embed/$frame,domain=eventim.ro
+
+! https://github.com/uBlockOrigin/uAssets/issues/33146
+canale-tv.net##+js(nowoif, , 1)
+
+! https://github.com/tcptomato/ROad-Block/issues/431#issuecomment-4831983334
+pornobrand.com,filmebro.com,futai.live,xxx1.link,nimfomane.org,pornofilmexxx.net,pornobi.net,filmexxx.live,pizde.live##+js(nostif, appendChild)
+
+! https://github.com/tcptomato/ROad-Block/issues/717
+embedsun.cc##+js(nowoif)
+
+! https://github.com/tcptomato/ROad-Block/issues/719
+filmeonline123.com##+js(nowoif)
+
+! right click
+buzau.net##+js(aeld, contextmenu)
+
+! https://github.com/tcptomato/ROad-Block/issues/772
+vasluianul.ro##+js(nowoif)
+
+! https://github.com/uBlockOrigin/uAssets/issues/33744
+filmexxx.ro##+js(rmnt, script, window.location.href)
+filmexxx.ro##+js(no-fetch-if, php)
+
+! https://github.com/tcptomato/ROad-Block/issues/819
+||rvlqplr.com^
+*$script,domain=versmuzica.ro,3p,denyallow=facebook.net
+
+curier.ro##+js(rmnt, script, atob)
+curier.ro#@#html > #bw-cf-root
+||curier.ro/wp-content/uploads/2024/04/hotel_360x300*.jpg$image
+curier.ro##[href]:not([href*="curier.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
+
+sitefilme.com##+js(nostif, loadScript)
+
+gaqghe.com##+js(nowoif)

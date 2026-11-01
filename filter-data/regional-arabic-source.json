@@ -1,0 +1,25 @@
+{
+  "source": "https://easylist-downloads.adblockplus.org/liste_ar.txt",
+  "publisher": "The Liste AR authors",
+  "title": "Liste AR",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "attributionUrl": "https://code.google.com/archive/p/liste-ar-adblock/",
+  "fetchedAt": "2026-11-01T06:36:00.239Z",
+  "sha256": "e9488d4ecaaab674ff1352691d38a6d487cfbe2ac23ad07f3e045dfdea91892f",
+  "upstreamVersion": "202611010621",
+  "upstreamLastModified": "01 Nov 2026 06:21 UTC",
+  "upstreamCommit": "",
+  "filters": 1601,
+  "acceptedDomainRules": 44,
+  "exceptionDomains": 25,
+  "rejected": {
+    "unsupportedShape": 1212,
+    "unsupportedOptions": 71,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

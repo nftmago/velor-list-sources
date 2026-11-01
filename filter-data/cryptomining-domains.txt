@@ -1,0 +1,15 @@
+# Known browser cryptomining infrastructure. Blocked in third-party contexts.
+authedmine.com
+coin-hive.com
+coin-have.com
+coinhive.com
+coinhiveproxy.com
+coinlab.biz
+crypto-loot.com
+cryptoloot.pro
+deepminer.net
+jsecoin.com
+minero.cc
+webmine.cz
+webminepool.com
+webminerpool.com

@@ -1,0 +1,74 @@
+[uBlock Origin]
+! -----SPECIFIC FILTERS-----
+
+ampparit.com##.ad-slot
+iijokiseutu.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,kaleva.fi,koillissanomat.fi,komiat.fi,lapinkansa.fi,pohjoisenpolut.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,siikajokilaakso.fi,suupohjansanomat.fi,viiskunta.fi##.m-managedListing__column:has(.m-contentListItem__advertisement):remove()
+iijokiseutu.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,kaleva.fi,koillissanomat.fi,komiat.fi,lapinkansa.fi,pohjoisenpolut.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,siikajokilaakso.fi,suupohjansanomat.fi,viiskunta.fi##.m-managedListing__row.-cols-2 > .m-managedListing__column.-cols-2:only-child img:remove-attr(sizes)
+iijokiseutu.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,kaleva.fi,koillissanomat.fi,komiat.fi,lapinkansa.fi,pohjoisenpolut.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,siikajokilaakso.fi,suupohjansanomat.fi,viiskunta.fi##.mdc-layout-grid__cell:has(+ .sidebar__column-container) img[sizes]:remove-attr(sizes)
+metsastysjakalastus.fi,tekniikanmaailma.fi##.NoAdBlocker_main
+seiska.fi##.jwplayer.column:has(.jw-video[src="https://seiska.b-cdn.net/Mainos.mp4"]):remove()
+tilannemedia.fi##.tm-home3-layout:matches-media((min-width: 1019px)):style(width: 1068px !important; grid-template-columns: 710px 338px !important; gap: 20px !important; margin-inline: auto !important;)
+
+! HTML filters for browsers that support them e.g. Firefox
+!#if cap_html_filtering
+foreca.fi##^#ad-top
+foreca.fi##^[id|=inline-banner-mobi]
+keskustelu.suomi24.fi##^[class*="3ColumnLayout__HeaderAdWrapper"]
+kokemaenjokilaakso.fi##^[alt^=Mainos]
+kotikokki.net##^.kotikokki_ensighten_ad
+kuka-soitti.fi##^body > .container:not(.mb-5, :has(.mb-5)):has-text(Mainos)
+mobiili.fi##^.fullarticle:has([data-lazy-src="https://mobiili.fi/aaa.png"])
+mobiili.fi##^.fullarticle:has-text(Sponsoroitu)
+muropaketti.com##^article.grid__item_1:has(.nativead)
+tamperelainen.fi##^.display-ad
+ykkoslohja.fi##^.owl-carousel
+ylojarvenuutiset.fi##^.omamainos-responsive
+!#endif
+
+! -----SPECIFIC FILTERS END-----
+
+! -----NETWORK FILTERS-----
+
+||adservice.google.com/adsid/integrator.js$xhr,redirect=noop.txt,domain=telsu.fi
+||doubleclick.net^$xmlhttprequest,redirect=nooptext,domain=puhekupla.com
+||v.fwmrm.net/ad/g/1$removeparam=caid
+
+! -----NETWORK FILTERS END-----
+
+! -----SCRIPTS-----
+
+afterdawn.com,dawn.fi,download.fi,high.fi,muropaketti.com##+js(nostif, f.parentNode.removeChild(f), 100)
+findit.fi##+js(acs, testPrebid)
+happypancake.fi##+js(aopr, Object.prototype.adUnits)
+keskustelu.suomi24.fi##+js(set, Object.prototype.useAds, false)
+s-kaupat.fi##+js(json-prune, props.pageProps.contentfulState.frontPage.sections.[].fields.hasCitrusAdSlot props.pageProps.contentfulState.frontPage.sections.[].fields.isCitrusAdGrid)
+srk.fi##+js(set-cookie, cookielaw_accepted, 1, , reload, 1)
+telsu.fi##+js(aeld, transitionend, , elements, div[style*="-9999px"][style*="outline-offset"])
+telsu.fi##+js(aost, Animation.prototype.finished, /telsu\.fi\/js\/[a-z\d]+\.js\?v=\d+/)
+telsu.fi##+js(norafif, /const\s+([$\w]+)=[$\w]+\(\)-[$\w]+;if\(\1>=[\s\S]*?\x2C\1>=[\s\S]*?\)\{[$\w]+\(\);return;\}window\[[^\]]+\]\([$\w]+\);/)
+telsu.fi##+js(nostif, /const\s+([$\w]+)=\[(?:[$\w]+\x2C){3}[$\w]+\];for\(let\s+([$\w]+)=[^;]+;\2<\1\[[^\]]+\];\2\+\+\)if\(!\1\[\2\]\)return;[$\w]+\(\);/, 2600-3399)
+vauva.fi##+js(rmnt, script, async-hide)
+
+! Fix YouTube videos on www.aalto.fi
+! Example: https://www.aalto.fi/fi/koulutustarjonta/kiinteistotalous-ja-geoinformatiikka-tekniikan-kandidaatti-ja-diplomi-insinoori
+! When setting the cookie beforehand, not necessary to load the consent.cookiebot.com scripts required to consent
+aalto.fi##+js(set-cookie, cookiebot-consent--necessary, 1)
+aalto.fi##+js(set-cookie, cookiebot-consent--preferences, 1)
+aalto.fi##+js(set-cookie, cookiebot-consent--marketing, 0)
+aalto.fi##+js(set-cookie, cookiebot-consent--statistics, 0)
+
+! -----SCRIPTS END-----
+
+! mtv.fi & mtvuutiset.fi
+@@||fi-mtv3.videoplaza.tv/proxy/distributor$domain=mtv.fi|mtvuutiset.fi
+mtv.fi,mtvuutiset.fi##+js(json-prune-fetch-response, bumpers playbackItem.isStitched, , propsToMatch, a2d.tv/play/)
+mtv.fi,mtvuutiset.fi##+js(xml-prune, Ad, , /fwmrm.net\/ad\/g/)
+mtv.fi,mtvuutiset.fi##+js(xml-prune, MediaFile, , fi-mtv3.videoplaza.tv/proxy/distributor)
+mtv.fi,mtvuutiset.fi##.avod-web-player-csai:remove()
+mtv.fi,mtvuutiset.fi##.avod-web-player-pause
+mtv.fi,mtvuutiset.fi##.avod-web-player-skin > #skin-wrapper > div > div:has-text(Mainos)
+mtv.fi,mtvuutiset.fi##.visit-advertiser-link
+||cloudfront.net/creatives/assets/$image,domain=mtv.fi|mtvuutiset.fi
+||cloudfront.net/creatives/assets/*.mp4$media,redirect=noop-0.1s.mp3,domain=mtv.fi|mtvuutiset.fi
+||fi-mtv3.videoplaza.tv/proxy/distributor/*&xpb=1$xhr,important,domain=mtv.fi|mtvuutiset.fi
+@@||fwmrm.net/ad/g/*mtv$xhr,domain=mtv.fi|mtvuutiset.fi

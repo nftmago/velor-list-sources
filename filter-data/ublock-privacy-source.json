@@ -1,0 +1,34 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/filters/privacy.txt",
+  "publisher": "Raymond Hill and the uAssets contributors",
+  "title": "uBlock filters – Privacy",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/uBlockOrigin/uAssets",
+  "fetchedAt": "2026-11-01T09:15:13.875Z",
+  "sha256": "5ad11ee0b869d07f1604da44e3315e6444a8137b478305c0908b6c359339b6d6",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Fri, 30 Oct 2026 19:03:49 +0000",
+  "upstreamCommit": "",
+  "filters": 1785,
+  "acceptedDomainRules": 101,
+  "exceptionDomains": 1,
+  "rejected": {
+    "unsupportedShape": 1600,
+    "unsupportedOptions": 72,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  },
+  "includes": [
+    {
+      "name": "resource-abuse.txt",
+      "file": "ublock-privacy--resource-abuse.txt",
+      "source": "https://ublockorigin.github.io/uAssets/filters/resource-abuse.txt",
+      "sha256": "e77991b337dad1ef43ea181b36504fc9ff9bfa549eb2b9a9aec47181339e8584",
+      "filters": 78
+    }
+  ]
+}

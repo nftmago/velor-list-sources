@@ -1,0 +1,11 @@
+{
+  "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.mini-onlydomains.txt",
+  "publisher": "HaGeZi (Threat Intelligence Feeds, mini)",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/hagezi/dns-blocklists/blob/main/LICENSE",
+  "attributionUrl": "https://github.com/hagezi/dns-blocklists",
+  "category": "malware",
+  "fetchedAt": "2026-10-31T20:32:58.671Z",
+  "sha256": "fd1de29ee84b9edeebd098febe9ec2a56a8df1409e2d929cb3cb4c559fb6c580",
+  "domainCount": 193569
+}

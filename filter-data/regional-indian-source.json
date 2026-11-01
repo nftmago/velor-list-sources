@@ -1,0 +1,25 @@
+{
+  "source": "https://easylist-downloads.adblockplus.org/indianlist.txt",
+  "publisher": "The EasyList authors",
+  "title": "IndianList",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:35:48.488Z",
+  "sha256": "10cf50b78e2ce1a46f8a28742c843bc3dd1d68d1155240872b0f07bd3f988b0c",
+  "upstreamVersion": "202611010621",
+  "upstreamLastModified": "01 Nov 2026 06:21 UTC",
+  "upstreamCommit": "",
+  "filters": 10635,
+  "acceptedDomainRules": 20,
+  "exceptionDomains": 60,
+  "rejected": {
+    "unsupportedShape": 10481,
+    "unsupportedOptions": 52,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

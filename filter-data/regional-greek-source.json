@@ -1,0 +1,25 @@
+{
+  "source": "https://www.void.gr/kargig/void-gr-filters.txt",
+  "publisher": "kargig (void.gr) and contributors",
+  "title": "Greek AdBlock Filter",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attributionUrl": "https://github.com/kargig/greek-adblockplus-filter",
+  "fetchedAt": "2026-11-01T06:35:47.517Z",
+  "sha256": "e415902d06c0a030c2a46afa8e3d304166b58101f3a39c2289827d0f55b01bad",
+  "upstreamVersion": "2026102600",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 1267,
+  "acceptedDomainRules": 28,
+  "exceptionDomains": 10,
+  "rejected": {
+    "unsupportedShape": 1213,
+    "unsupportedOptions": 2,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn_ublock.txt",
+  "publisher": "ABPVN and contributors",
+  "title": "ABPVN List | Ublock Origin",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/abpvn/abpvn/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/abpvn/abpvn",
+  "fetchedAt": "2026-11-01T06:35:46.518Z",
+  "sha256": "a219a4dbda9b6b0fc7480e8e29ba0c41f251015aafeb49b10de6a258d2890af8",
+  "upstreamVersion": "20261031183737297",
+  "upstreamLastModified": "31 Oct 2026 18:37:37 UTC+7",
+  "upstreamCommit": "",
+  "filters": 1196,
+  "acceptedDomainRules": 69,
+  "exceptionDomains": 27,
+  "rejected": {
+    "unsupportedShape": 1027,
+    "unsupportedOptions": 19,
+    "invalidHostname": 0,
+    "exception": 3,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

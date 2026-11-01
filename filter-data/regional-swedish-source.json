@@ -1,0 +1,25 @@
+{
+  "source": "https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt",
+  "publisher": "Frellwit (lassekongo83) and contributors",
+  "title": "Frellwit's Swedish Filter",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/lassekongo83/Frellwits-filter-lists/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/lassekongo83/Frellwits-filter-lists",
+  "fetchedAt": "2026-11-01T06:35:46.558Z",
+  "sha256": "c78658714f8f70e34b5eeb5316164205dfac70e68a98d5b7382fb660a2d57396",
+  "upstreamVersion": "",
+  "upstreamLastModified": "2026-10-31 07:27:50 CET",
+  "upstreamCommit": "",
+  "filters": 3799,
+  "acceptedDomainRules": 292,
+  "exceptionDomains": 14,
+  "rejected": {
+    "unsupportedShape": 3070,
+    "unsupportedOptions": 91,
+    "invalidHostname": 0,
+    "exception": 6,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

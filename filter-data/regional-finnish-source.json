@@ -1,0 +1,34 @@
+{
+  "source": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt",
+  "publisher": "The Finnish EasyList addition contributors",
+  "title": "Adblock List for Finland",
+  "license": "Unlicense",
+  "licenseUrl": "https://unlicense.org/",
+  "attributionUrl": "https://github.com/finnish-easylist-addition/finnish-easylist-addition",
+  "fetchedAt": "2026-11-01T09:15:13.837Z",
+  "sha256": "b399d05e62d883c010c84c5f8be5074094b982b642ef3e964f6b42f1056eaa4a",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Sat, 31 Oct 2026 00:41:56 +0200",
+  "upstreamCommit": "",
+  "filters": 1178,
+  "acceptedDomainRules": 15,
+  "exceptionDomains": 20,
+  "rejected": {
+    "unsupportedShape": 1054,
+    "unsupportedOptions": 11,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  },
+  "includes": [
+    {
+      "name": "Finland_adb_uBO_extras.txt",
+      "file": "regional-finnish--Finland_adb_uBO_extras.txt",
+      "source": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb_uBO_extras.txt",
+      "sha256": "b547cc63d76672d2c28aa63b8905e11cd144bf621d5bc13daa01eb58d1b805ec",
+      "filters": 49
+    }
+  ]
+}

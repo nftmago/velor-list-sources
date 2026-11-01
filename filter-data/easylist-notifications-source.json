@@ -1,0 +1,25 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/thirdparties/easylist-notifications.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList – Notifications",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:04:57.683Z",
+  "sha256": "b755ab9572f2c37eadb3beddfac29636822ec15d1f1fa28cdb5d747798961baf",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Sat, 31 Oct 2026 09:58:08 +0000",
+  "upstreamCommit": "",
+  "filters": 1689,
+  "acceptedDomainRules": 200,
+  "exceptionDomains": 16,
+  "rejected": {
+    "unsupportedShape": 1187,
+    "unsupportedOptions": 5,
+    "invalidHostname": 0,
+    "exception": 3,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

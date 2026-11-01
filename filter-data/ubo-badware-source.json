@@ -1,0 +1,13 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/filters/badware.txt",
+  "publisher": "uBlock Origin uAssets (Raymond Hill and contributors): Badware risks",
+  "title": "uBlock₀ filters – Badware risks",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/uBlockOrigin/uAssets",
+  "category": "malware",
+  "fetchedAt": "2026-10-31T20:32:58.346Z",
+  "sha256": "a24074d5cec3effd447168f0d192e1b84ada16ccb0819c2301eb8690b8750256",
+  "upstreamLastModified": "Sat, 31 Oct 2026 03:36:09 +0000",
+  "domainCount": 3273
+}

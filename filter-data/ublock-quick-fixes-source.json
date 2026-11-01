@@ -1,0 +1,25 @@
+{
+  "source": "https://ublockorigin.github.io/uAssets/filters/quick-fixes.txt",
+  "publisher": "Raymond Hill and the uAssets contributors",
+  "title": "uBlock₀ filters – Quick fixes",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/uBlockOrigin/uAssets/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/uBlockOrigin/uAssets",
+  "fetchedAt": "2026-11-01T05:59:55.816Z",
+  "sha256": "36d0d7171cb6d5bf3e536d232bf2f205285eba178d2d88d3ca2f9800cb707813",
+  "upstreamVersion": "",
+  "upstreamLastModified": "Sun, 01 Nov 2026 02:39:02 +0000",
+  "upstreamCommit": "",
+  "filters": 516,
+  "acceptedDomainRules": 3,
+  "exceptionDomains": 19,
+  "rejected": {
+    "unsupportedShape": 397,
+    "unsupportedOptions": 18,
+    "invalidHostname": 0,
+    "exception": 0,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

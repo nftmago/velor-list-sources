@@ -1,0 +1,25 @@
+{
+  "source": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
+  "publisher": "The EasyList authors",
+  "title": "EasyList Italy",
+  "license": "CC BY-SA 3.0 or GPLv3+",
+  "licenseUrl": "https://easylist.to/pages/licence.html",
+  "attributionUrl": "https://easylist.to/",
+  "fetchedAt": "2026-11-01T06:35:48.155Z",
+  "sha256": "f4df12774fb0641833922c5fed91c5cc7e1845bd8d4482e3748ec0835916347a",
+  "upstreamVersion": "202611010621",
+  "upstreamLastModified": "01 Nov 2026 06:21 UTC",
+  "upstreamCommit": "",
+  "filters": 4211,
+  "acceptedDomainRules": 72,
+  "exceptionDomains": 62,
+  "rejected": {
+    "unsupportedShape": 3569,
+    "unsupportedOptions": 35,
+    "invalidHostname": 0,
+    "exception": 7,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}

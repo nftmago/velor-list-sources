@@ -1,0 +1,25 @@
+{
+  "source": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt",
+  "publisher": "The EasyList Lithuania contributors",
+  "title": "EasyList Lithuania",
+  "license": "GPL-3.0",
+  "licenseUrl": "https://github.com/EasyList-Lithuania/easylist_lithuania/blob/master/LICENSE",
+  "attributionUrl": "https://github.com/EasyList-Lithuania/easylist_lithuania",
+  "fetchedAt": "2026-11-01T06:35:46.515Z",
+  "sha256": "98799f1249b9ec96757b166f8b96141d69926f26eb9fffe3449ba95828c80cac",
+  "upstreamVersion": "17June2026v1",
+  "upstreamLastModified": "",
+  "upstreamCommit": "",
+  "filters": 1202,
+  "acceptedDomainRules": 27,
+  "exceptionDomains": 37,
+  "rejected": {
+    "unsupportedShape": 1088,
+    "unsupportedOptions": 11,
+    "invalidHostname": 2,
+    "exception": 1,
+    "badfilter": 0,
+    "sharedInfrastructure": 0,
+    "duplicate": 0
+  }
+}
